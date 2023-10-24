@@ -21,12 +21,12 @@
         compatible = "zmk,keymap";
         default_layer {
             bindings = <
-&kp SPACE  &bt BT_SEL 1
+&kp SPACE  &bt BT_SEL 0
             >;
         };
 lower_layer {
             bindings = <
-                &bt BT_SEL 1
+                &bt BT_SEL 0
                 &bt BT_CLR    &trans
             >;
         };
