@@ -15,3 +15,5 @@
 include:
   - board: nrfmicro_13
     shield: two_percent_milk
+  - board: nrfmicro_13
+    shield: settings_reset
