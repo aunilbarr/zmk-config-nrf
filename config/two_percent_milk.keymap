@@ -21,7 +21,7 @@
         compatible = "zmk,keymap";
         default_layer {
             bindings = <
-&kp SPACE  &test
+&kp SPACE  &bt BT_CLR
             >;
         };
 bl_layer {
