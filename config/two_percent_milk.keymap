@@ -21,7 +21,7 @@
         compatible = "zmk,keymap";
         default_layer {
             bindings = <
-&bt BT_CLR &mo 1
+&mo test &mo 1
             >;
         };
 lower_layer {
